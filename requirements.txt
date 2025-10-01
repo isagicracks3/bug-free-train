@@ -1,0 +1,11 @@
+telebot
+fake_useragent
+bs4
+flask
+httpx
+yt_dlp
+schedule
+
+
+
+faker
