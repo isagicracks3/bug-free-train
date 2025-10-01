@@ -41,7 +41,7 @@ from cc import process_cc_card
 #====================================================================#
 
 # Bot token
-BOT_TOKEN = "7535052644:AAGLGM0IOZNgbY2HEnr76tSt89PTNCkFQfw"
+BOT_TOKEN = "8140466625:AAHofK8GP_BWm2zoardBo9xOol_ij4j9swc"
 bot = telebot.TeleBot(BOT_TOKEN)
 import bleach
 import telebot
